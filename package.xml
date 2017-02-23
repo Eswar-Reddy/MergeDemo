@@ -5,6 +5,8 @@
         <members>A21</members>
         <members>A2222</members>
         <members>ARPTCls1</members>
+        <members>Ac1111</members>
+        <members>AppCls01</members>
         <name>ApexClass</name>
     </types>
 </Package>
