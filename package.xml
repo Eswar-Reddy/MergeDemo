@@ -4,6 +4,27 @@
     <types>
         <members>A21</members>
         <members>A2222</members>
+        <members>Ac1111</members>
+        <members>AppCls01</members>
+        <members>ApxClass12345</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Book__c.BookAuthor__c</members>
+        <members>Book__c.BookDesc__c</members>
+        <members>Book__c.BookPages__c</members>
+        <members>Book__c.BookPrintedBy__c</members>
+        <members>Book__c.BookReviews__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ACLS1</members>
+        <members>ACLS2</members>
+        <members>CLDescription</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Book__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
