@@ -6,6 +6,7 @@
         <members>A2222</members>
         <members>Ac1111</members>
         <members>AppCls01</members>
+        <members>ApxClaMar10</members>
         <members>ApxClass12345</members>
         <name>ApexClass</name>
     </types>
@@ -21,6 +22,7 @@
         <members>ACLS1</members>
         <members>ACLS2</members>
         <members>CLDescription</members>
+        <members>CLSMar10</members>
         <name>CustomLabel</name>
     </types>
     <types>
