@@ -15,4 +15,51 @@
         <members>ArDemo1</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <members>Lead.TestAssignmentRule</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>Book__c.BookAuthor__c</members>
+        <members>Book__c.BookDesc__c</members>
+        <members>Book__c.BookPages__c</members>
+        <members>Book__c.BookPrintedBy__c</members>
+        <members>Book__c.BookReviews__c</members>
+        <members>Case.EngineeringReqNumber__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
+        <members>Case.SLAViolation__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ACLS1</members>
+        <members>ACLS2</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Book__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
+        <name>EscalationRule</name>
+    </types>
+    <types>
+        <members>Book__c-Book Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Book__c.BookSharingTestRule2</members>
+        <members>Case.CaseSharingRule2</members>
+        <name>SharingCriteriaRule</name>
+    </types>
 </Package>
