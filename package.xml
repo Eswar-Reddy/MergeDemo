@@ -32,6 +32,8 @@
         <members>Book__c.BookPages__c</members>
         <members>Book__c.BookPrintedBy__c</members>
         <members>Book__c.BookReviews__c</members>
+        <members>Book__c.PendingPurchaseBooks__c</members>
+        <members>Book__c.PruchaseBooksList__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -52,6 +54,10 @@
     <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
+    </types>
+    <types>
+        <members>Book__c.ListOfBooks</members>
+        <name>FieldSet</name>
     </types>
     <types>
         <members>Book__c-Book Layout</members>
