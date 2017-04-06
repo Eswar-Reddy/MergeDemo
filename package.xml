@@ -68,4 +68,8 @@
         <members>Case.CaseSharingRule2</members>
         <name>SharingCriteriaRule</name>
     </types>
+    <types>
+        <members>Book__c.BookAuthorValidationRule</members>
+        <name>ValidationRule</name>
+    </types>
 </Package>

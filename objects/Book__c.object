@@ -266,5 +266,12 @@ C#</description>
     <pluralLabel>Books</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>BookAuthorValidationRule</fullName>
+        <active>true</active>
+        <errorConditionFormula>LEN(BookAuthor__c) &gt; 0</errorConditionFormula>
+        <errorDisplayField>BookAuthor__c</errorDisplayField>
+        <errorMessage>Author Name should not be empty</errorMessage>
+    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>
