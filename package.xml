@@ -8,6 +8,7 @@
         <members>Ac1111</members>
         <members>AppCls01</members>
         <members>AppCls02</members>
+        <members>ApxClaMar10</members>
         <members>ApxClass12345</members>
         <members>ApxCls1</members>
         <members>ApxCls2</members>
@@ -52,6 +53,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SalesCommunityHome</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>
@@ -62,6 +67,10 @@
     <types>
         <members>Book__c-Book Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>SalesCommunityHome</members>
+        <name>Network</name>
     </types>
     <types>
         <members>Book__c.BookSharingTestRule2</members>
