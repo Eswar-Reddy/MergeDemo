@@ -74,6 +74,10 @@
         <name>Network</name>
     </types>
     <types>
+        <members>Case.NewChildCase</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
         <members>Book__c.BookSharingTestRule2</members>
         <members>Case.CaseSharingRule2</members>
         <name>SharingCriteriaRule</name>
