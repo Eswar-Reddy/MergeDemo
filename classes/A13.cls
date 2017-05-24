@@ -8,11 +8,13 @@ public Account createAccount(String name)  //method to create account
 Account a13= new Account();
 a13.Name = name;
 return a13;
-
+//some of the comments are removed.
 
 
 //nwe lines are added for second commit purpose.
 
-//some of the comments are removed.
+
 }
+
+//this is the head revision class.
 }
