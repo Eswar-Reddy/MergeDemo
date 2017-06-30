@@ -30,6 +30,10 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>ARCobjA1__c.ARCobjA1_desc__c</members>
+        <members>ARCobjA1__c.Account__c</members>
+        <members>ARCobjA1__c.Book__c</members>
+        <members>ARCobjA1__c.ExternalObj1__c</members>
         <members>Book__c.BookAuthor__c</members>
         <members>Book__c.BookDesc__c</members>
         <members>Book__c.BookPages__c</members>
@@ -37,6 +41,12 @@
         <members>Book__c.BookReviews__c</members>
         <members>Book__c.PendingPurchaseBooks__c</members>
         <members>Book__c.PruchaseBooksList__c</members>
+        <members>Book__c.SamplePiclist1__c</members>
+        <members>Bus__c.BusDestination__c</members>
+        <members>Bus__c.BusLookUpField1__c</members>
+        <members>Bus__c.BusSource__c</members>
+        <members>Bus__c.BusTextField1__c</members>
+        <members>COBjS__c.COBjSEmail2__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>

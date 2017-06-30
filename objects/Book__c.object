@@ -119,6 +119,7 @@ C#</description>
         <label>BookAuthor</label>
         <length>255</length>
         <required>false</required>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
@@ -128,6 +129,7 @@ C#</description>
         <externalId>false</externalId>
         <label>BookDesc</label>
         <required>false</required>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
     </fields>
@@ -157,6 +159,7 @@ C#</description>
         <label>BookReviews</label>
         <length>255</length>
         <required>false</required>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
@@ -253,6 +256,41 @@ C#</description>
                     <fullName>Salesforce</fullName>
                     <default>false</default>
                     <label>Salesforce</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>SamplePiclist1__c</fullName>
+        <externalId>false</externalId>
+        <label>SamplePiclist1</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>aa</fullName>
+                    <default>false</default>
+                    <label>aa</label>
+                </value>
+                <value>
+                    <fullName>bb</fullName>
+                    <default>false</default>
+                    <label>bb</label>
+                </value>
+                <value>
+                    <fullName>cc</fullName>
+                    <default>false</default>
+                    <label>cc</label>
+                </value>
+                <value>
+                    <fullName>dd</fullName>
+                    <default>false</default>
+                    <label>dd</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
